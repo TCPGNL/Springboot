@@ -5,10 +5,20 @@
 
 项目开始时间 2019-12-27
 
-|  序号 | 简介 | 开始时间 | 结束时间 | 简要感想 |
+项目配置:
+
+1. Windows/Linux/Mac 电脑一台
+2. idea IDE 一个
+3. TCPGNL 一个(哭)
+4. JDK 1.8
+
+博主网站:[https://www.tcpgnl.com](https://www.tcpgnl.com)
+项目地址:  [https://github.com/TCPGNL/Springboot](https://github.com/TCPGNL/Springboot)
+
+|  序号 | 简介 | 开始时间 | 结束时间 | 项目说明 |
 | :------------ | :------------ | :------------ | :------------ | :------------ |
-| 1 |   |   |   |   |
-| 2 |   |   |   |   |
+| 1 | [创建项目](https://www.tcpgnl.com/springboot-init.html) | 2019-12-27 | 2019-12-27 | 初始化 |
+| 2 | 打印HelloWorld! | 2019-12-27 | 2019-12-27 | 创建controler |
 | 3 |   |   |   |   |
 | 4 |   |   |   |   |
 | 5 |   |   |   |   |
